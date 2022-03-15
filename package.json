@@ -130,7 +130,7 @@
     "typescript": "^3.0.3"
   },
   "dependencies": {
-    "lodash-es": "^4.17.11",
+    "lodash-es": "^4.17.21",
     "lodash.clonedeep": "^4.5.0"
   }
 }
